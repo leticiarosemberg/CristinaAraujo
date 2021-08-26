@@ -15,7 +15,8 @@
   <img align="center" alt="Cris-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="40" width="40"                                                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="cris:hin" height="140" width="140" src="https://favim.com/image/6744273.jpggg">
+
+
 </div
   
 ##
